@@ -2,8 +2,8 @@
 
 // Configuration for database connection
 
-$host       = getenv('DB_HOST');
-$username   = getenv('DB_USERNAME');
-$password   = getenv('DB_PASSWORD');
-$db_name     = getenv('DB_DATABASE');
+$host       = getenv('test-insia.mysql.database.azure.com');
+$username   = getenv('vgauikptnt');
+$password   = getenv('fkfab$JjiFA30vym');
+$db_name     = getenv('test-insia');
 $sslcert    = "ssl/DigiCertGlobalRootCA.crt.pem";
